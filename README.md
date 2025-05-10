@@ -22,11 +22,3 @@ This plugin solves it by:
   - All relevant WooCommerce cookies  
 
 With this approach, the customer will **always** see an empty cart and a new session, no matter where or how the cancellation took place.
-
----
-
-## 🚀 Installation
-
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/your-username/wc-clear-cart-next-visit.git
