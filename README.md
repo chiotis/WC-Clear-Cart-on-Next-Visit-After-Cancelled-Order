@@ -1,0 +1,1 @@
+# WC-Clear-Cart-on-Next-Visit-After-Cancelled-Order
